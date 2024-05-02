@@ -27,7 +27,7 @@ export default class AppNavbar extends Component {
             <Navbar color="dark" dark expand="md">
                 <NavbarBrand tag={Link} to="/">Home</NavbarBrand>
                 <div style={nameAndSectionStyle}>
-                    Jovell Christian Q. Miranda - BSIT3A
+                    Christian Anthony S. Quiambao - BSIT3A
                 </div>
             </Navbar>
         );
